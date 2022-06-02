@@ -38,3 +38,7 @@ About Me
 
 - SQLD (SQL Developer)
 
+## ⌨️ Project 
+
+### 주문제작 3D cake 
+- Three.js , Html로 구현한 첫 프로젝트를 react, a-scene로 리팩토링 
