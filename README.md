@@ -1,22 +1,20 @@
-# <b>이규원</b>
-### 백엔드 개발자
+# **이규원**
 
-<ul>
-  <li>Email: kyuwoon369@gmail.com</li>
-  <li>GitHub : [https://github.com/kyuwon53](https://github.com/kyuwon53)</li>
-</ul>
+## 백엔드 개발자
 
----
-
-<center>About Me</center>
+* Email: kyuwoon369@gmail.com
+* GitHub : [https://github.com/kyuwon53](https://github.com/kyuwon53)
 
 ---
 
-<center>Expriense</center>
-<div>
+About Me
 
-### 유플러스아이티 
-( 2021.09 ~ 현재)
+---
+
+## Expriense
+
+### 유플러스아이티
+(2021.09 ~ 현재)
 
 #### 엔티스 운영 및 유지보수 ( 21.09 ~)
 **홈택스 & 손택스 일반신고서, 근로소득 신고서 담당**
@@ -27,14 +25,16 @@
 - 기능 개선 시 작은 단위로 테스트 코드를 작성하여 오류가 발생하지 않음 
 
 #### 문화
-- `sql`, `spring`을 모르는 동료에게 스터디를 제안해 도움을 줌 
 
-</div>
+- `sql`, `spring`을 모르는 동료에게 스터디를 제안해 도움을 줌
 
-<center>Education</center>
+## Education
 
-### 코드숨 spring 4기 
-( 2021. 11 ~ 2022. 02)
+### 코드숨 Spring 4기
 
-### 자격증 
-- SQLD ( SQL Developer )
+(2021. 11 ~ 2022. 02)
+
+### 자격증
+
+- SQLD (SQL Developer)
+
