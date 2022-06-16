@@ -12,7 +12,7 @@ About Me
 안녕하세요. 백엔드 개발자 이규원입니다. 
 ---
 
-## Expriense
+## 🏃 Expriense
 
 ### 유플러스아이티
 (2021.09 ~ 현재)
@@ -27,15 +27,19 @@ About Me
 
 #### 문화
 
-- `sql`, `spring`을 모르는 동료에게 스터디를 제안해 도움을 줌
+- `sql`, `spring`을 모르는 동료에게 스터디를 제안해 도움을 주었습니다.
 
-## Education
+## ✏️ Education
 
 ### 코드숨 Spring 4기
-
 (2021. 11 ~ 2022. 02)
+* TDD로 유연한 코드를 작성할 수 있습니다. 
+* 코드 리뷰를 통해 협업하는 법을 배움.
+
+### 머신러닝 활용 JAVA 웹 응용  SW 엔지니어
+(2021.02~2021.08)
+* SQL Developer를 사용해 SQL(Oracle)을 능숙하게 다룰 수 있습니다.
+* Java, JQuery, JSP, Javascript, Spring Framework 등 웹 개발에 필요한 기술들을 배워 응용하여 사용할 수 있습니다. 
 
 ### 자격증
-
-- SQLD (SQL Developer)
-
+* 2021.06 SQLD (SQL Developer) - 한국 데이터 산업 진흥원
